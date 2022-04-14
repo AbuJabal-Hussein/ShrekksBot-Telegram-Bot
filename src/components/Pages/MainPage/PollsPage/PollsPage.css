@@ -1,0 +1,56 @@
+
+.poll-creating-accordion-header{
+    text-align: left;
+    margin-left: 5%;
+}
+
+.new-poll-button{
+    font-size: large;
+    padding: 6px;
+    border-radius: 15px;
+}
+
+.show-my-polls-switch{
+    padding: 6px;
+    border-radius: 15px;
+}
+
+
+.polls-page-frame{
+    margin-bottom: 2%;
+    text-align: center;
+    /*border: darkgreen solid;*/
+    border-radius: 10px;
+    padding: 2%;
+}
+
+.polls-table{
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 15px;
+
+}
+
+.polls-table td{
+    border: 3px solid #002800 ;
+    border-collapse: collapse;
+    border-radius: 10px;
+
+}
+
+.add-poll-accordion{
+    width: 50%;
+    text-align: left;
+    color: darkgreen;
+    margin-left: 2%;
+
+}
+
+.poll-accordion-body{
+    padding-left: 2%;
+}
+
+.show-participants-col{
+    width: 20%;
+}
+
