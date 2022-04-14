@@ -23,7 +23,7 @@ Create a Telegram bot:
 - Go to the [BotFather](https://core.telegram.org/bots#6-botfather) on Telegram.
 - Create a new bot: /newbot
 - Give it a name.
-- Give it a username (must end with the word bot)
+- Give it a username (must end with the word bot).
 - Copy the authentication token you receive from BotFather
 - Edit the BOT_TOKEN parameter in the *config.py* with the token you got
 
